@@ -1,7 +1,7 @@
 name: CuongOrigami
 favicon: null
-layout_spectrum: 0.6866324869915843
-typography_spectrum: 0.003290398046374321
+layout_spectrum: 0.92169
+typography_spectrum: 0
 title: Origami world of Nguyen Hung Cuong
 cta:
   domain: null
@@ -17,11 +17,11 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#B8B42D'
-    - '#697A21'
-    - '#FFFCE8'
-    - '#3E363F'
-    - '#DD403A'
+    - '#dfe2e9'
+    - '#171925'
+    - '#927965'
+    - '#004f91'
+    - '#3081c2'
   brandStrength: 0.13859150698408484
   lightness: 0.2791549824178219
   saturation: 0.8421937697567046
