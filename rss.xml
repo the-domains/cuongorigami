@@ -2,14 +2,21 @@
     <channel>
         <title><![CDATA[CuongOrigami]]></title>
         <description><![CDATA[CuongOrigami]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/cuongorigami/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 11 Jan 2016 03:54:58 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Mon, 11 Jan 2016 03:55:24 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/cuongorigami/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Origami Dancing Lady Orchid (Psychopsis Krameriana)]]></title>
+            <description><![CDATA[<article><h1>Origami Dancing Lady Orchid (Psychopsis Krameriana)</h1><p>This one is created for a 2012 Origami contest. The flower is folded from one uncut square and the rest are from many papers. </p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/32a1d1a05d9e507ca54d5664d24ef66761472c4a.jpg"></article>]]></description>
+            <link>https://thegrid.ai/cuongorigami/origami-dancing-lady-orchid-psychopsis-krameriana/index.html</link>
+            <guid isPermaLink="false">b8ea8bd8-a1a7-4999-87f5-147afca42046</guid>
+            <pubDate>Mon, 11 Jan 2016 03:55:06 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/2d06946d-a2a2-4c7b-9525-dfc06ef5c903.jpg">]]></description>
-            <link>undefinedb55e2201-086b-4ea9-8e65-26364f04ee48/index.html</link>
+            <link>https://thegrid.ai/cuongorigami/b55e2201-086b-4ea9-8e65-26364f04ee48/index.html</link>
             <guid isPermaLink="false">b55e2201-086b-4ea9-8e65-26364f04ee48</guid>
             <pubDate>Mon, 11 Jan 2016 03:54:50 GMT</pubDate>
         </item>
