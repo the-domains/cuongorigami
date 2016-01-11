@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: 'Origami artwork made by Nguyen Hung Cuong, 2012'
-datePublished: '2016-01-11T08:08:55.768Z'
-dateModified: '2016-01-11T08:07:43.597Z'
+datePublished: '2016-01-11T10:09:50.987Z'
+dateModified: '2016-01-11T10:09:50.477Z'
 title: Origami Dancing Lady Orchid (Psychopsis Krameriana)
 author: []
 sourcePath: _posts/2016-01-11-origami-dancing-lady-orchid-psychopsis-krameriana.md
@@ -27,5 +27,5 @@ _type: Article
 This one is created for a 2012 Origami contest. The flower is folded from one uncut square and the rest are from many papers. 
 
 I used handmade paper which allow me to shape freely and smoothly.
-![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/e4f3b46fe7024e130ee8976f5c38f0a70a3857d1.jpg)
-![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/cff0d9a68632c24d462540054593426ae2d3a162.jpg)
+![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/925ca7ae4653e6429172e1c29708f6ff248292fc.jpg)
+![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/47a8e169b9325c410c68f20f451bdaf211b12cc0.jpg)
