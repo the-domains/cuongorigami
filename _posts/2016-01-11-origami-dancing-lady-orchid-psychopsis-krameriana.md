@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: 'Origami artwork made by Nguyen Hung Cuong, 2012'
-datePublished: '2016-01-11T10:09:50.987Z'
-dateModified: '2016-01-11T10:09:50.477Z'
+datePublished: '2016-01-11T10:10:36.969Z'
+dateModified: '2016-01-11T10:09:52.956Z'
 title: Origami Dancing Lady Orchid (Psychopsis Krameriana)
 author: []
 sourcePath: _posts/2016-01-11-origami-dancing-lady-orchid-psychopsis-krameriana.md
