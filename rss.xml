@@ -4,8 +4,15 @@
         <description><![CDATA[Origami world of Nguyen Hung Cuong]]></description>
         <link>https://thegrid.ai/cuongorigami/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 11 Jan 2016 10:12:43 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 11 Jan 2016 10:14:51 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/cuongorigami/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[New works]]></title>
+            <description><![CDATA[<article><h1>New works</h1><p>Great White Shark - 21/12/2012</p></article>]]></description>
+            <link>https://thegrid.ai/cuongorigami/new-works/index.html</link>
+            <guid isPermaLink="false">71c3ae71-a8b6-42dd-a62f-977beed1d8d9</guid>
+            <pubDate>Mon, 11 Jan 2016 10:14:50 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/c1e2d553c7b3676514bf3a48b8d94d7a20308b88.jpg" alt="" title="">]]></description>
