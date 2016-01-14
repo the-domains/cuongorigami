@@ -1,6 +1,6 @@
 name: CuongOrigami
 favicon: null
-layout_spectrum: 0.25011
+layout_spectrum: 0.30142
 typography_spectrum: 0.24412
 title: Origami
 cta:
@@ -23,7 +23,7 @@ color:
     - '#191014'
     - '#3d3433'
   brandStrength: 0
-  lightness: 0.25
+  lightness: 0.1875
   saturation: 0.75
-  rhythmicContrast: 0.5
+  rhythmicContrast: 0.25
 purpose: []
