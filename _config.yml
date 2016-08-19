@@ -1,20 +1,4 @@
-name: CuongOrigami
-favicon: null
-layout_spectrum: 0.30142
 typography_spectrum: 0.75312
-title: Origami
-cta:
-  domain: null
-  bucket: null
-  version: null
-analytics:
-  google: null
-  facebook: null
-  twitter: null
-opengraph:
-  image: null
-  type: null
-  appId: null
 color:
   brandColors:
     - '#e6ebf1'
@@ -26,4 +10,21 @@ color:
   lightness: 0.1875
   saturation: 0.75
   rhythmicContrast: 0.25
+opengraph:
+  image: null
+  type: null
+  appId: null
+layout_spectrum: 0.30142
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+name: CuongOrigami
+cta:
+  domain: null
+  bucket: null
+  version: null
+favicon: null
+title: Origami
+description: Save the paper!
 purpose: []
